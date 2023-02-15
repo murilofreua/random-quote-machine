@@ -2,4 +2,4 @@
 
 Aplicação web que gera citações aleatórias.
 
-Estudo da tecnologia de desenvolvimento ReactJS.
+Estudo da tecnologia de desenvolvimento React.
